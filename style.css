@@ -12,6 +12,9 @@ body{
     height: 30vh;
     position: absolute;
     text-align: center;
+    justify-content: center;
+    align-items: center;
+    
 
 
 }
@@ -22,6 +25,8 @@ body{
     margin-left: 65%;
     position: absolute;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 .three{
     background-color: purple;
@@ -31,6 +36,8 @@ body{
     position: absolute;
     text-align: center;
     margin-top: 15%;
+    justify-content: center;
+    align-items: center;
 
 }
 .four{
@@ -40,6 +47,8 @@ body{
     position: absolute;
     margin-top: 30%;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 .five{
     background-color: green;
@@ -49,6 +58,8 @@ body{
     margin-left: 65%;
     margin-top: 30%;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 .one:hover{
     background-color: blue;
